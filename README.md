@@ -21,3 +21,8 @@ Flujo del caso de uso:
 10. Fin del caso de uso.
 
 Este caso de uso describe el flujo básico de una transacción de compra en línea utilizando una tarjeta de crédito. Sin embargo, ten en cuenta que en un sistema real, se deben considerar aspectos de seguridad adicionales, como el encriptado de los datos de la tarjeta, la autenticación del titular de la tarjeta y la prevención de fraudes.
+
+## Diagrama de Secuencia
+
+![Diagrama de Secuencia](diagrama.png)
+
