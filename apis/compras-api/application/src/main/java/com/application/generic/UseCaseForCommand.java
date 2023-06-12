@@ -7,6 +7,6 @@ import io.smallrye.mutiny.Uni;
 
 import java.util.function.Function;
 
-public abstract class UseCaseForCommand<R extends Command>  implements Function<Multi<R>, Uni<DomainEvent>> {
-    public abstract Multi<DomainEvent> apply(Uni<R> rMono);
+public abstract class UseCaseForCommand<R extends Command> implements Function<Uni<R>, Multi<DomainEvent>> {
+    public abstract Multi<DomainEvent> apply(Uni<R> rUni);
 }
