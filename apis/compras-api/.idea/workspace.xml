@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3bfd961-3a61-4a57-88a2-ec0724d9af6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/domain/src/main/java/com/domain/events/PaymentRequestMade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/main/java/com/domain/events/ProductAdded.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/main/java/com/domain/events/ProductDeleted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/main/java/com/domain/events/ProductUpdated.java" afterDir="false" />
+    <list default="true" id="f3bfd961-3a61-4a57-88a2-ec0724d9af6c" name="Changes" comment="Modelo de dominio finalizado">
+      <change afterPath="$PROJECT_DIR$/domain/src/main/java/com/domain/Buy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/src/main/java/com/domain/BuyChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/src/main/java/com/domain/BuyUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/src/main/java/com/domain/Buys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/src/main/java/com/domain/BuysChange.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "corretto-17",
     "node.js.detected.package.eslint": "true",
@@ -105,8 +107,30 @@
       <option name="presentableId" value="Default" />
       <updated>1686524279857</updated>
       <workItem from="1686524280692" duration="1591000" />
-      <workItem from="1686534421261" duration="3563000" />
+      <workItem from="1686534421261" duration="9511000" />
     </task>
+    <task id="LOCAL-00001" summary="Creando comando y evento para crear compra">
+      <created>1686538966270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686538966270</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Actualizando comando y evento para crear compra">
+      <created>1686540748851</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686540748851</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Eliminando comandos y eventos de solicitud de pagos">
+      <created>1686543018563</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686543018563</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,5 +140,10 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="Creando comando y evento para crear compra" />
+    <MESSAGE value="Actualizando comando y evento para crear compra" />
+    <MESSAGE value="Eliminando comandos y eventos de solicitud de pagos" />
+    <MESSAGE value="Modelo de dominio finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modelo de dominio finalizado" />
   </component>
 </project>
