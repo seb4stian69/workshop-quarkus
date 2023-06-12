@@ -13,6 +13,9 @@ import java.util.List;
 @AllArgsConstructor/*-*/@NoArgsConstructor
 public class CreateBuy extends Command {
 
+    private String firstName;
+    private String lastName;
+    private Integer cardNumber;
     private String buyID;
     private List<Product> products;
 
