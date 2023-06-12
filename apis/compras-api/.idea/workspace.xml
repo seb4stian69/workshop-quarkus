@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3bfd961-3a61-4a57-88a2-ec0724d9af6c" name="Changes" comment="Modelo de dominio finalizado">
-      <change afterPath="$PROJECT_DIR$/application/src/main/java/com/application/gateway/ListProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/main/java/com/application/generic/UseCaseForCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/main/java/com/application/generic/UseCaseForEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8e09e04d708c7173c1ba2685d2316cc2ad28f74" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/8/c8e09e04d708c7173c1ba2685d2316cc2ad28f74" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="f3bfd961-3a61-4a57-88a2-ec0724d9af6c" name="Changes" comment="Agregando la interfaz ShopDomainEventRepository">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/main/java/com/domain/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/java/com/application/usecase/AddProductToCartUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/java/com/application/usecase/AddProductToCartUseCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/java/com/application/usecase/CreateBuyUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/java/com/application/usecase/CreateBuyUseCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/java/com/application/usecase/DeleteProductInCartUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/java/com/application/usecase/DeleteProductInCartUseCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -64,6 +57,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "jdk.selected.JAVA_MODULE": "corretto-17",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -75,8 +70,17 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.application.gateway" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sebastian.santis\Documents\Informacion\Dinners\Capacitaciones\Quarkus-workshop\compras-api\infraestructure" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.application.usecase" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -113,7 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1686524279857</updated>
       <workItem from="1686524280692" duration="1591000" />
-      <workItem from="1686534421261" duration="12557000" />
+      <workItem from="1686534421261" duration="16998000" />
     </task>
     <task id="LOCAL-00001" summary="Creando comando y evento para crear compra">
       <created>1686538966270</created>
@@ -143,7 +147,28 @@
       <option name="project" value="LOCAL" />
       <updated>1686544464177</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Creando estructura de application">
+      <created>1686548173403</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686548173403</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Modificando la clase abstracta UseCaseForCommand">
+      <created>1686551400408</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686551400408</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Agregando la interfaz ShopDomainEventRepository">
+      <created>1686551422516</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686551422516</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +182,9 @@
     <MESSAGE value="Actualizando comando y evento para crear compra" />
     <MESSAGE value="Eliminando comandos y eventos de solicitud de pagos" />
     <MESSAGE value="Modelo de dominio finalizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modelo de dominio finalizado" />
+    <MESSAGE value="Creando estructura de application" />
+    <MESSAGE value="Modificando la clase abstracta UseCaseForCommand" />
+    <MESSAGE value="Agregando la interfaz ShopDomainEventRepository" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregando la interfaz ShopDomainEventRepository" />
   </component>
 </project>
