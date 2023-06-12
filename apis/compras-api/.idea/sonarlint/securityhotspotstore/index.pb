@@ -5,8 +5,6 @@ L
 infrastructure/api/README.md,7\3\7310ba42e92d3ed09c0a50f0ca46496416743c30
 C
 application/pom.xml,c\8\c8e09e04d708c7173c1ba2685d2316cc2ad28f74
->
-domain/pom.xml,8\b\8b11330a6810846535e4b5ba2024ccfcee112862
 J
 infrastructure/api/pom.xml,c\8\c8883122849a04e25f5b803bf2377902b5d9af6c
 7
