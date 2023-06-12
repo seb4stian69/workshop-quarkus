@@ -13,6 +13,7 @@ import java.util.List;
 @AllArgsConstructor/*-*/@NoArgsConstructor
 public class CreateBuy extends Command {
 
+    private String userID;
     private String firstName;
     private String lastName;
     private Integer cardNumber;
