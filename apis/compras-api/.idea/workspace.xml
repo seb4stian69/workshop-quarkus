@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3bfd961-3a61-4a57-88a2-ec0724d9af6c" name="Changes" comment="Modelo de dominio finalizado">
-      <change afterPath="$PROJECT_DIR$/domain/src/main/java/com/domain/Buy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/main/java/com/domain/BuyChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/main/java/com/domain/BuyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/main/java/com/application/gateway/ListProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/main/java/com/application/generic/UseCaseForCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/main/java/com/application/generic/UseCaseForEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8e09e04d708c7173c1ba2685d2316cc2ad28f74" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/8/c8e09e04d708c7173c1ba2685d2316cc2ad28f74" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/src/main/java/com/domain/Buys.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/src/main/java/com/domain/BuysChange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/java/com/domain/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1686524279857</updated>
       <workItem from="1686524280692" duration="1591000" />
-      <workItem from="1686534421261" duration="9511000" />
+      <workItem from="1686534421261" duration="12557000" />
     </task>
     <task id="LOCAL-00001" summary="Creando comando y evento para crear compra">
       <created>1686538966270</created>
@@ -130,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686543018563</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Modelo de dominio finalizado">
+      <created>1686544464177</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686544464177</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
