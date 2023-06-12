@@ -37,11 +37,22 @@ Implementar dos microservicios con sus respectivas responsabilidades aplicando e
 
 ### Diagrama de Secuencia
 
-![Diagrama de Secuencia](diagrama.png)
+![Diagrama de Secuencia](diagramas/diagrama.png)
+
+### Diagrama de modelamiento de dominio <a style="color:inherit;" href="./Workshop.drawio">(Microservicio-compra)</a>
+
+![Diagrama de modelamiento de dominio (Microservicio-Compra)](diagramas/modelocompra.png)
+
+### Diagrama de modelamiento de dominio <a style="color:inherit;" href="./Workshop.drawio">(Microservicio-pago)</a>
+![Diagrama de modelamiento de dominio (Microservicio-Pago)](diagramas/modelopago.png)
 
 ### Esquema de objetos
 
 ![Esquema de objetos](https://github.com/sofka-practices/workshop-quarkus/assets/111551105/be973db0-81ac-4ce1-b5a8-7d641ee3b288)
+
+## Elementos agregados
+Un servicio orientado a la administracion y gestion de las diferentes entidades utilizadas como lo pueden ser, Usuarios, Productos, Tarjetas. De las 3 anteriores el servicio admin se encarga de exponer un CRUD para la manipulacion de datos dentro de estas entidades, La coleccion de postman que se encuentra en el directorio raiz del proyecto contiene los endpoints de las entidades mencionadas, asi como tambien se tiene swagger implementado en admin-api para un rapido acceso de estos metodos
+
 
 ## Expectativa
 El desarrollo de este workshop abarcará 10 días, en los cuales se trata de construir paso a paso el flujo del caso de uso expuesto anteriormente. Se espera que el desarrollador durante este periodo concluya la creación del mismo teniendo como punto de partida este repositorio y documentar su avance diario en ramas individuales con commits de valor y que a su vez recibirán la respectiva retroalimentación.

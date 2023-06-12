@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3bfd961-3a61-4a57-88a2-ec0724d9af6c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/docker/Dockerfile.jvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/docker/Dockerfile.legacy-jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/docker/Dockerfile.native" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/docker/Dockerfile.native-micro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/api/compras/ComprasAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/api/compras/config/SolicitudMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/api/compras/dto/SolicitudDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/api/compras/entity/Solicitud.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/api/compras/repository/SolicitudRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/api/compras/resources/SolicitudResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/api/compras/service/SolicitudService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/api/compras/utils/Producto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/api/compras/utils/Tarjeta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/api/compras/utils/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/resources/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/api/compras/service/SolicitudServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrama.png" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrama.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2R4zjePUdQAbBphwySqEyqNIzeK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ExpandQuarkusEnvironmentOptionsPanel": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sebastian.santis\Documents\Informacion\Dinners\Capacitaciones\Quarkus-workshop\compras-api\infraestructure" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="QuarkusRunConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Quarkus.Service-Socket">
+    <configuration name="Service-Api" type="QuarkusRunConfigurationType" factoryName="Quarkus">
+      <module name="api" />
+      <QsMavenRunConfiguration>
+        <MavenSettings>
+          <option name="myGeneralSettings">
+            <MavenGeneralSettings>
+              <option name="alwaysUpdateSnapshots" value="false" />
+              <option name="checksumPolicy" value="NOT_SET" />
+              <option name="failureBehavior" value="NOT_SET" />
+              <option name="localRepository" value="" />
+              <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../../../Configs raras que me dan/mvn" />
+              <option name="nonRecursive" value="false" />
+              <option name="outputLevel" value="INFO" />
+              <option name="pluginUpdatePolicy" value="DEFAULT" />
+              <option name="printErrorStackTraces" value="false" />
+              <option name="showDialogWithAdvancedSettings" value="false" />
+              <option name="threads" />
+              <option name="useMavenConfig" value="true" />
+              <option name="usePluginRegistry" value="false" />
+              <option name="userSettingsFile" value="" />
+              <option name="workOffline" value="false" />
+            </MavenGeneralSettings>
+          </option>
+          <option name="myRunnerSettings" />
+          <option name="myRunnerParameters">
+            <MavenRunnerParameters>
+              <option name="profiles">
+                <set />
+              </option>
+              <option name="goals">
+                <list>
+                  <option value="quarkus:dev" />
+                </list>
+              </option>
+              <option name="pomFileName" value="pom.xml" />
+              <option name="profilesMap">
+                <map />
+              </option>
+              <option name="resolveToWorkspace" value="false" />
+              <option name="workingDirPath" value="$PROJECT_DIR$/infrastructure/api" />
+            </MavenRunnerParameters>
+          </option>
+        </MavenSettings>
+        <targetMavenLocalRepo />
+      </QsMavenRunConfiguration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Service-Socket" type="QuarkusRunConfigurationType" factoryName="Quarkus">
+      <module name="socket" />
+      <QsMavenRunConfiguration>
+        <MavenSettings>
+          <option name="myGeneralSettings">
+            <MavenGeneralSettings>
+              <option name="alwaysUpdateSnapshots" value="false" />
+              <option name="checksumPolicy" value="NOT_SET" />
+              <option name="failureBehavior" value="NOT_SET" />
+              <option name="localRepository" value="" />
+              <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../../../Configs raras que me dan/mvn" />
+              <option name="nonRecursive" value="false" />
+              <option name="outputLevel" value="INFO" />
+              <option name="pluginUpdatePolicy" value="DEFAULT" />
+              <option name="printErrorStackTraces" value="false" />
+              <option name="showDialogWithAdvancedSettings" value="false" />
+              <option name="threads" />
+              <option name="useMavenConfig" value="true" />
+              <option name="usePluginRegistry" value="false" />
+              <option name="userSettingsFile" value="" />
+              <option name="workOffline" value="false" />
+            </MavenGeneralSettings>
+          </option>
+          <option name="myRunnerSettings" />
+          <option name="myRunnerParameters">
+            <MavenRunnerParameters>
+              <option name="profiles">
+                <set />
+              </option>
+              <option name="goals">
+                <list>
+                  <option value="quarkus:dev" />
+                </list>
+              </option>
+              <option name="pomFileName" value="pom.xml" />
+              <option name="profilesMap">
+                <map />
+              </option>
+              <option name="resolveToWorkspace" value="false" />
+              <option name="workingDirPath" value="$PROJECT_DIR$/infrastructure/socket" />
+            </MavenRunnerParameters>
+          </option>
+        </MavenSettings>
+        <targetMavenLocalRepo />
+      </QsMavenRunConfiguration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Quarkus.Service-Socket" />
+      <item itemvalue="Quarkus.Service-Api" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3bfd961-3a61-4a57-88a2-ec0724d9af6c" name="Changes" comment="" />
+      <created>1686524279857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686524279857</updated>
+      <workItem from="1686524280692" duration="1591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
