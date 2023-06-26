@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3bfd961-3a61-4a57-88a2-ec0724d9af6c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2R4zjePUdQAbBphwySqEyqNIzeK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ExpandQuarkusEnvironmentOptionsPanel": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "C:/Users/sebastian.santis/Documents/CodeGarbage/Java - Intelijj/CQRS-QUARKUS/quarkus-cqrs/out/artifacts/quarkus_cqrs_jar/quarkus-cqrs.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="co.com.infrastructure.dto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sebastian.santis\Documents\Informacion\Dinners\Capacitaciones\Quarkus-workshop\apis\compras-api\infrastructure\src\main\java\co\com\infrastructure\dto" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sebastian.santis\Documents\Informacion\Dinners\Capacitaciones\Quarkus-workshop\apis\compras-api\infrastructure" />
+      <recent name="C:\Users\sebastian.santis\Documents\Informacion\Dinners\Capacitaciones\Quarkus-workshop\compras-api\infraestructure" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.application.usecase" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="co.com.infrastructure.repository" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="QuarkusRunConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Quarkus.Service-Socket">
+    <configuration name="Service-Api" type="QuarkusRunConfigurationType" factoryName="Quarkus">
+      <module name="api" />
+      <QsMavenRunConfiguration>
+        <MavenSettings>
+          <option name="myGeneralSettings">
+            <MavenGeneralSettings>
+              <option name="alwaysUpdateSnapshots" value="false" />
+              <option name="checksumPolicy" value="NOT_SET" />
+              <option name="failureBehavior" value="NOT_SET" />
+              <option name="localRepository" value="" />
+              <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../../../Configs raras que me dan/mvn" />
+              <option name="nonRecursive" value="false" />
+              <option name="outputLevel" value="INFO" />
+              <option name="pluginUpdatePolicy" value="DEFAULT" />
+              <option name="printErrorStackTraces" value="false" />
+              <option name="showDialogWithAdvancedSettings" value="false" />
+              <option name="threads" />
+              <option name="useMavenConfig" value="true" />
+              <option name="usePluginRegistry" value="false" />
+              <option name="userSettingsFile" value="" />
+              <option name="workOffline" value="false" />
+            </MavenGeneralSettings>
+          </option>
+          <option name="myRunnerSettings" />
+          <option name="myRunnerParameters">
+            <MavenRunnerParameters>
+              <option name="profiles">
+                <set />
+              </option>
+              <option name="goals">
+                <list>
+                  <option value="quarkus:dev" />
+                </list>
+              </option>
+              <option name="pomFileName" value="pom.xml" />
+              <option name="profilesMap">
+                <map />
+              </option>
+              <option name="resolveToWorkspace" value="false" />
+              <option name="workingDirPath" value="$PROJECT_DIR$/infrastructure/api" />
+            </MavenRunnerParameters>
+          </option>
+        </MavenSettings>
+        <targetMavenLocalRepo />
+      </QsMavenRunConfiguration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Service-Socket" type="QuarkusRunConfigurationType" factoryName="Quarkus">
+      <module name="socket" />
+      <QsMavenRunConfiguration>
+        <MavenSettings>
+          <option name="myGeneralSettings">
+            <MavenGeneralSettings>
+              <option name="alwaysUpdateSnapshots" value="false" />
+              <option name="checksumPolicy" value="NOT_SET" />
+              <option name="failureBehavior" value="NOT_SET" />
+              <option name="localRepository" value="" />
+              <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../../../Configs raras que me dan/mvn" />
+              <option name="nonRecursive" value="false" />
+              <option name="outputLevel" value="INFO" />
+              <option name="pluginUpdatePolicy" value="DEFAULT" />
+              <option name="printErrorStackTraces" value="false" />
+              <option name="showDialogWithAdvancedSettings" value="false" />
+              <option name="threads" />
+              <option name="useMavenConfig" value="true" />
+              <option name="usePluginRegistry" value="false" />
+              <option name="userSettingsFile" value="" />
+              <option name="workOffline" value="false" />
+            </MavenGeneralSettings>
+          </option>
+          <option name="myRunnerSettings" />
+          <option name="myRunnerParameters">
+            <MavenRunnerParameters>
+              <option name="profiles">
+                <set />
+              </option>
+              <option name="goals">
+                <list>
+                  <option value="quarkus:dev" />
+                </list>
+              </option>
+              <option name="pomFileName" value="pom.xml" />
+              <option name="profilesMap">
+                <map />
+              </option>
+              <option name="resolveToWorkspace" value="false" />
+              <option name="workingDirPath" value="$PROJECT_DIR$/infrastructure/socket" />
+            </MavenRunnerParameters>
+          </option>
+        </MavenSettings>
+        <targetMavenLocalRepo />
+      </QsMavenRunConfiguration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="infrastructure" type="QuarkusRunConfigurationType" factoryName="Quarkus" nameIsGenerated="true">
+      <module name="infrastructure" />
+      <QsMavenRunConfiguration>
+        <MavenSettings>
+          <option name="myGeneralSettings" />
+          <option name="myRunnerSettings" />
+          <option name="myRunnerParameters">
+            <MavenRunnerParameters>
+              <option name="profiles">
+                <set />
+              </option>
+              <option name="goals">
+                <list>
+                  <option value="quarkus:dev" />
+                </list>
+              </option>
+              <option name="pomFileName" value="pom.xml" />
+              <option name="profilesMap">
+                <map />
+              </option>
+              <option name="resolveToWorkspace" value="false" />
+              <option name="workingDirPath" value="$PROJECT_DIR$/infrastructure" />
+            </MavenRunnerParameters>
+          </option>
+        </MavenSettings>
+        <targetMavenLocalRepo />
+      </QsMavenRunConfiguration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Quarkus.infrastructure" />
+      <item itemvalue="Quarkus.Service-Socket" />
+      <item itemvalue="Quarkus.Service-Api" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3bfd961-3a61-4a57-88a2-ec0724d9af6c" name="Changes" comment="" />
+      <created>1686524279857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686524279857</updated>
+      <workItem from="1686524280692" duration="1591000" />
+      <workItem from="1687053070932" duration="30000" />
+      <workItem from="1687053696880" duration="960000" />
+      <workItem from="1687110005986" duration="17708000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

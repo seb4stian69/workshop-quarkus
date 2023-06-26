@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="quarkus-cqrs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../CodeGarbage/Java - Intelijj/CQRS-QUARKUS/quarkus-cqrs/out/artifacts/quarkus_cqrs_jar/quarkus-cqrs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
